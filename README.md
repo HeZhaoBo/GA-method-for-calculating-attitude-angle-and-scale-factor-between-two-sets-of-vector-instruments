@@ -9,6 +9,7 @@ Authors: Zhaobo He, Xingxing Hu, Yuntian Teng, Xiuxia Zhang, Xiaoyu Shen.
 1.Unzip the file "generic.rar" and copy the folder to the MATLAB installation path.
 
 2.Open the "mytoolbox.txt" file, modify the "generic" path and run in the MATLAB window.
+Note: This step may be made each time you restart your computer when you find a error report with key word "function rep" in matlab.
 
 3.Open the "GA_days.m" or "GA_days_ex.m" file, modify the data path and the month of data . 
 Run "GA_days.m" or "GA_days_ex.m" file after confirming or modifying the attitude angle range in the function file "jiaodufanyan_gen.m".
